@@ -1,0 +1,6 @@
+obj/local/armeabi/objs/clapack2/cgels.o: jni/clapack/SRC/cgels.c \
+ jni/clapack/SRC/f2c.h jni/clapack/SRC/blaswrap.h
+
+jni/clapack/SRC/f2c.h:
+
+jni/clapack/SRC/blaswrap.h:
